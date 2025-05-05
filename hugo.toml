@@ -1,6 +1,6 @@
 # https://gohugo.io/configuration/all/
 
-baseURL = "https://example.org/"
+# baseURL = "https://example.org/"
 theme = 'hugo-bearblog'
 title = "Jessen Blogi"
 author = "Jesse Koskela"
