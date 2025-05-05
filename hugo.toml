@@ -1,0 +1,23 @@
+# https://gohugo.io/configuration/all/
+
+baseURL = "https://example.org/"
+theme = 'hugo-bearblog'
+title = "Jessen Blogi"
+author = "Jesse Koskela"
+languageCode = "en-US" # TODO add FIN
+
+enableRobotsTXT = true
+
+# enableGitInfo = true
+
+[permalinks]
+  blog = "/blog/:slug/"
+  tags = "/tags/:slug"
+
+[params]
+  description = "Personal Blog of Jesse K."
+
+[menus]
+  [[menus.main]]
+    name = 'Links'
+    url = 'https://linktr.ee/koskelajs'
