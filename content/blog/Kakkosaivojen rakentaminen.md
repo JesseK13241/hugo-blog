@@ -10,7 +10,7 @@ draft=false
 
 Kakkosaivot ovat kuin Nooan arkki elämän navigointiin tietotulvan keskellä.
 
-Termi on mahtipontinen ja ehkä hieman harhaanjohtavakin, sillä pohjimmiltaan kakkosaivot ovat systeemi tehokkaaseen tiedonhallintaan.
+Termi on mahtipontinen ja ehkä hieman harhaanjohtavakin, sillä pohjimmiltaan kakkosaivot ovat systeemi tehokkaaseen tiedonhallintaan. Tieteellinen pölytermi aihepiirille on [Personal knowledge management (PKM)](https://en.wikipedia.org/wiki/Personal_knowledge_management).
 
 ## Miksi
 
