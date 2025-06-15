@@ -13,6 +13,7 @@ enableRobotsTXT = true
 [permalinks]
   blog = "/blog/:slug/"
   tags = "/tags/:slug"
+  now = "now.md"
 
 [params]
   description = "Personal Blog of Jesse K."
@@ -21,3 +22,7 @@ enableRobotsTXT = true
   [[menus.main]]
     name = 'Links'
     url = 'https://linktr.ee/koskelajs'
+
+  [[menus.main]]
+    name = 'Now'
+    url = '/now'
