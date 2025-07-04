@@ -1,6 +1,6 @@
 +++
 title="Tehokas ja kestävä opiskelu"
-date=2025-06-05
+date=2025-07-04
 tags=['Learning']
 draft=false
 +++
