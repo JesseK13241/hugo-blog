@@ -19,9 +19,6 @@ enableRobotsTXT = true
   description = "Personal Blog of Jesse K."
 
 [menus]
-  [[menus.main]]
-    name = 'Links'
-    url = 'https://linktr.ee/koskelajs'
 
   [[menus.main]]
     name = 'Now'
