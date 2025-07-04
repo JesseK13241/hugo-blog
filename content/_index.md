@@ -11,3 +11,7 @@ The domain name is a triple entendre.
 Tavoitteenani on luoda informaatiotiivis ja ajantasainen kokoelma aiheita, joista minulla tuntuu olevan jotain sanottavaa. 
 
 Kirjoittaminen on minulle prosessi ajatusten kiteyttämiseen.
+
+---
+
+- Source on [GitHub](https://github.com/JesseK13241/hugo-blog)
