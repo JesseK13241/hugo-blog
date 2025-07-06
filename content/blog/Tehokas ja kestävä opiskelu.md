@@ -16,7 +16,7 @@ Selittäviä tekijöitä tunnistan muutaman: Byrokratinen hitaus ja tehokkaiden 
 
 Opiskeluteknologisen alan ympärillä on melkein loputon määrä tekoälyn höystämää pöhinää.
 Teen näihin pesäeroa tuomalla esiin, että blogini ei ole kaupallinen, ja myöhemmin mainitut työkalut ovat ilmaisia ja tietoteknisesti kestäviä ja siirrettäviä.
-Bloggausmotivaatioitani avaan tarkemmin täällä: [Reasons to Blog](/blog/reasons-to-blog) 🚧 .
+Bloggausmotivaatioitani avaan tarkemmin täällä: [Reasons and how to Blog](/blog/reasons-and-how-to-blog) 🚧 .
 
 Teksti on suunnattu opiskelijoille, jotka haluavat edetä opetusministeriöitä nopeammin tälle vuosituhannelle.
 Blogisarja olettaa [tietoteknisten perustaitojen](/blog/tietokoneen-peruskäyttö) 🚧  ja [englannin kielen](/blog/importance-of-english) 🚧  riittävää osaamista.

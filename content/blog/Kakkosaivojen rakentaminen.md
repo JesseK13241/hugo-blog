@@ -2,7 +2,7 @@
 title="Kakkosaivojen rakentaminen"
 date=2025-06-05
 modified=2025-07-04
-tags=['Guide', 'Obsidian', 'Second brain']
+tags=['Obsidian', 'Second brain']
 draft=false
 +++
 
@@ -60,4 +60,4 @@ Minimaalinen aloitus:
 
 Kerää ja dokumentoi asiat ja ideat jotka ovat sinulle hyödyllisiä, yllättäviä, inspiroivia tai henkilökohtaisia. Ota ylös hyviä elämänohjeita. Tee monitasoisia tavoitelistoja haaveille ja elämän eri osa-alueille. Kakkosaivoillesi muodostuu ajan myötä omannäköinen rakenne. Aloita yksinkertaisesti, ja pidä kirjaa kysymyksistä ja asioista, jotka tuntuvat hankalilta Obsidianin käytössä. Todennäköisesti niihin on löydettävissä useita ratkaisuja, mikä on suosittujen sovellusten etu.
 
-Kun sivumäärä kasvaa, lue [Obsidianin edistyneemmästä käytöstä](/blog/advanced-obsidian) 🚧 . Aiheelle on myös useita kiinnostavia internet-yhteistöjä, kuten [r/ObsidianMD/](https://old.reddit.com/r/ObsidianMD/), ja Youtube-kanavia, joissa informaation laatu voi vaihdella. Älä eksy liian syvälle kaninkoloon, sillä pelkkä kirveen teroittaminen ei puuta kaada. 🌲
+Kun sivumäärä kasvaa, lue [Obsidianin edistyneemmästä käytöstä](/blog/advanced-obsidian). Aiheelle on myös useita kiinnostavia internet-yhteistöjä, kuten [r/ObsidianMD/](https://old.reddit.com/r/ObsidianMD/), ja Youtube-kanavia, joissa informaation laatu voi vaihdella. Älä eksy liian syvälle kaninkoloon, sillä pelkkä kirveen teroittaminen ei puuta kaada. 🌲
