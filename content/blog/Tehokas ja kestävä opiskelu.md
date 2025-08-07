@@ -11,19 +11,19 @@ Tämä on opiskeluaiheisen blogisarjan ensimmäinen osa.
 > - [A Chinese Proverb](https://en.wikipedia.org/wiki/Chinese_proverbs)
 
 Oppineisuus ja sivistys ovat onnellisen yksilön ja yhteiskunnan kivijalka.
-Opiskelun tehostaminen ja optimointi näyttää kuitenkin olevan yhteiskunnan selkeä sokea piste.
+Opiskelun tehostaminen ja optimointi näyttää kuitenkin olevan selkeä sokea piste.
 Selittäviä tekijöitä tunnistan muutaman: Byrokratinen hitaus ja tehokkaiden sovellusten ja tietoteknisesti kestävien prosessien puute.
 
 Opiskeluteknologisen alan ympärillä on melkein loputon määrä tekoälyn höystämää pöhinää.
-Teen näihin pesäeroa tuomalla esiin, että blogini ei ole kaupallinen, ja myöhemmin mainitut työkalut ovat ilmaisia ja tietoteknisesti kestäviä ja siirrettäviä.
-Bloggausmotivaatioitani avaan tarkemmin täällä: [Reasons and how to Blog](/blog/reasons-and-how-to-blog) 🚧 .
+Teen näihin pesäeroa tuomalla esiin, että blogini ei ole kaupallinen, ja myöhemmin mainitut työkalut ovat ilmaisia ja tietoteknisesti kestäviä.
+Bloggausmotivaatioitani avaan tarkemmin täällä: [Blogi - Miksi](/blog/blogi-miksi) 🚧 .
 
-Teksti on suunnattu opiskelijoille, jotka haluavat edetä opetusministeriöitä nopeammin tälle vuosituhannelle.
-Blogisarja olettaa [tietoteknisten perustaitojen](/blog/tietokoneen-peruskäyttö) 🚧  ja [englannin kielen](/blog/importance-of-english) 🚧  riittävää osaamista.
+Blogisarja on suunnattu opiskelijoille, jotka haluavat edetä opetusministeriöitä nopeammin tälle vuosituhannelle.
+Blogisarja olettaa [tietoteknisten perustaitojen](/blog/tietokoneen-peruskäyttö) 🚧  ja [englannin kielen](/blog/englannin-osaamisen-merkitys) 🚧  riittävää osaamista.
 Koitan kirjoittaa mahdollisimman suurelle yleisölle, ja tiedostan oman perspektiivin olevan aina vähän tiellä.
 Tehokas kommunikaatio on ihan oma taitonsa, jota harjoittelen näiden blogitekstien avulla.
-Teksti muovaantuu ajan mittaan oman ajatuksen ja palautteen mukana.
-Tulevat tekstimuokkaukset tulevat [githubin](https://github.com/JesseK13241/hugo-blog/) kautta, jossa kaikki muutokset ja aiemmat versiot on vapaasti luettavissa.
+Teksti muovautuu ajan mittaan oman ajatuksen ja palautteen mukana.
+Tulevat tekstimuokkaukset päivittyvät [githubin](https://github.com/JesseK13241/hugo-blog/) kautta, jossa kaikki muutokset ja aiemmat versiot on vapaasti luettavissa.
 
 ## Opiskelumoti
 
@@ -78,4 +78,5 @@ Perinteisessä opiskelussa on monia puutteita:
 
 Blogisarja keskittyy näiden kohtien korjaamiseen.
 
-Seuraavaksi:  [Tietokoneen rooli opiskelussa](/blog/tietokoneen-rooli-opiskelussa) 🚧 
+Seuraavaksi:  [Tietokoneen rooli opiskelussa](/blog/tietokoneen-rooli-opiskelussa)
+
