@@ -1,10 +1,11 @@
 +++
 title="Kakkosaivojen rakentaminen"
 date=2025-06-05
-modified=2025-07-04
+lastmod=2025-09-17
 tags=['Obsidian', 'Second brain']
 draft=false
 +++
+
 
 ## Mikä
 
@@ -23,15 +24,15 @@ Tiedon varastoinnin lisäksi verkkomaiset kakkosaivot paljastavat uusia yhteyksi
 
 Kakkosaivojen hyödyt:
 
-- Vapauttaa työmuistia ja ajatuksen kaaosmaista hälinää.
-- Tehostaa ajatustyötä ja mentaalista suorituskykyä.
+- Vapauttaa työmuistia ja ajatuksen hälinää.
+- Tehostaa ajatustyötä ja henkistä suorituskykyä.
 - [Tehostaa ja motivoi opiskelua](/blog/tehokas-ja-kestävä-opiskelu).
 - Selkeyttää arkea ja elämää.
 - Säästää aikaa, kun kaikki tieto on nopeasti löydettävissä.
 - Mahdollistaa flow-tilan ylläpidon ilman, että satunnaiset ideat unohtuvat.
 - Mahdollistaa tehokkaamman levon ja palautumisen, kun ajatukset saa siirrettyä luotettavaan systeemiin.
 
-Kakkosaivojen käyttö muovaa ajattelua. Taustalla vaikuttavat systeemit ja prosessit alkavat näyttäytyä selkeämmin. Ajatustyön rakenne konkretisoituu. Kaikki opittu alkaa hiljalleen käymään järkeen ja loksahtaa paikalleen laajempaan struktuuriin. Oman elämän rakenne selkeytyy: se mitä teet, mikä on sinulle tärkeää, ja miksi. Toiminnanohjaus, elämänhallinan taidot ja yleinen autonomia kehittyvät kakkosaivojen mukana.
+Kakkosaivojen käyttö muovaa ajattelua. Taustalla vaikuttavat systeemit ja prosessit alkavat näyttäytyä selkeämmin. Ajatustyön rakenne konkretisoituu. Opiskellut asiat alkavat hiljalleen loksahtamaan paikalleen laajempaan struktuuriin. Oman elämän rakenne selkeytyy: se mitä teet, mikä on sinulle tärkeää, ja miksi. Toiminnanohjaus, elämänhallinan taidot ja yleinen autonomia kehittyvät kakkosaivojen mukana.
 
 ## Miten
 
@@ -39,7 +40,7 @@ Kakkosaivoista on ollut minulle merkittävä hyöty. Oma historia kakkosaivojen 
 
 Vastaavasta systeemistä hyötyisivät muutkin, mutta haasteena on tämän oman intuition ja rutiinin teleporttaaminen toisten päähän. Tekstillä on aina rajansa. Kuten muutkin luovat prosessit, kakkosaivojen rakentaminen on helpointa [tietokonetta käyttämällä](/blog/tietokoneen-peruskäyttö) 🚧 . Jos sait luettua tänne asti, sinulla on riittävästi keskittymiskykyä ja aikaa prosessin aloittamiseen.
 
-Kakkosaivoja, tietohallintajärjestelmiä ja muistiinpanosovelluksia on useita: Evernote, Microsoft OneNote, Apple Notes, Google Keep, Bear, Notion, Craft, Coda, ClickUp Docs, Airtable, Nimbus Note, Logseq, Zettlr, Roam Research, Tana, RemNote, Trilium Notes, Joplin, Dendron, Notable, Amplenote, Athens Research, Anytype, Heptabase, Foam, Zettelkasten.de, The Archive, Org-roam, Neuron, Obsidian, ...
+Kakkosaivoja, tietohallintajärjestelmiä ja muistiinpanosovelluksia on useita: Evernote, OneNote, Apple Notes, Google Keep, Notion, Logseq, Zettlr, Roam Research, Org-roam, Obsidian, ...
 
 Tärkeää on, että sovellus/alusta on:
 
@@ -50,14 +51,9 @@ Tärkeää on, että sovellus/alusta on:
 - Ilmainen (jotta kynnys sen aloittamiseen on mahdollisimman pieni)
 - Yksinkertainen aloittaa
 
-Obsidian on suosituimpien alustojen joukossa, ja sillä on myös kaikki yllämainitut tärkeät ominaisuudet. Aloittaminen on helppoa. Voit opetella ja ottaa käyttöön lisäominaisuuksia ja laajennuksia omaan tahtiin tiedon ja tarpeen kasvaessa.
-
-Minimaalinen aloitus:
-
-1) Asenna [Obsidian](https://obsidian.md/download).
-2) Lataa [minimipohja](https://github.com/JesseK13241/Minimaalinen_Obsidian_pohja), ja avaa ladattu ja purattu kansio Obsidianin avulla.
-3) Seuraa minimipohjan ohjeita.
+ [Obsidian](https://obsidian.md/download) on suosituimpien alustojen joukossa, ja sillä on myös kaikki yllämainitut tärkeät ominaisuudet. Aloittaminen on helppoa. Voit opetella ja ottaa käyttöön lisäominaisuuksia ja laajennuksia omaan tahtiin tiedon ja tarpeen kasvaessa.
 
 Kerää ja dokumentoi asiat ja ideat jotka ovat sinulle hyödyllisiä, yllättäviä, inspiroivia tai henkilökohtaisia. Ota ylös hyviä elämänohjeita. Tee monitasoisia tavoitelistoja haaveille ja elämän eri osa-alueille. Kakkosaivoillesi muodostuu ajan myötä omannäköinen rakenne. Aloita yksinkertaisesti, ja pidä kirjaa kysymyksistä ja asioista, jotka tuntuvat hankalilta Obsidianin käytössä. Todennäköisesti niihin on löydettävissä useita ratkaisuja, mikä on suosittujen sovellusten etu.
 
 Kun sivumäärä kasvaa, lue [Obsidianin edistyneemmästä käytöstä](/blog/advanced-obsidian). Aiheelle on myös useita kiinnostavia internet-yhteistöjä, kuten [r/ObsidianMD/](https://old.reddit.com/r/ObsidianMD/), ja Youtube-kanavia, joissa informaation laatu voi vaihdella. Älä eksy liian syvälle kaninkoloon, sillä pelkkä kirveen teroittaminen ei puuta kaada. 🌲
+
