@@ -1,9 +1,12 @@
 +++
 title="Advanced Obsidian"
 date=2025-07-06
+lastmod=2025-09-17
 tags=['Obsidian']
 draft=false
 +++
+
+
 
 My up-to-date [Obsidian](https://obsidian.md/) reference with solutions, opinions, preferences and conventions.
 
@@ -16,17 +19,16 @@ My up-to-date [Obsidian](https://obsidian.md/) reference with solutions, opinion
 - Use keybinds as much as possible.
 - Document and maintain personal keybind conventions across different programs.
 
-## Dataview
+## Data structure
 
-- Use dataview and templates as much as possible: Courses, Projects, Books, ...
-- This lets you generate statistics, automatic lists, etc.
-
+- Use templates as much as possible.
+- Create and embed [Obsidian bases](https://help.obsidian.md/bases) in various places: Courses, Projects, Books, ...
 ## Tags
 
-- Create most tags as notes instead of always using native tags: ~~`#obsidian`~~.
+- Create most tags as notes instead of always using native tags: `~~#obsidian~~`.
 - Use tags with atomic concepts: `#list`, `#comparison`.
 - Use corresponding tags on templates to make them visible to dataview: `#book`.
-- Mention tags on the top of the note: `Tags: [[Obsidian]], #list`
+- Mention tags on the top of the note: `Tags: Obsidian, #list`
 
 ## Vault and note management
 
@@ -41,26 +43,20 @@ My up-to-date [Obsidian](https://obsidian.md/) reference with solutions, opinion
 	- B) Maintain manual lists of notes under top-level categories
 - Add aliases by typing `---` & `aliases`. Aliases work automatically.
 - Merge accidentally created duplicate notes with the `Note composer` core plugin.
-- Use alternative link text where necessary: `[[link|link text]]`.
+- Use alternative link text where necessary: `link text`.
 - Split a note if it grows too large.
 
 ## Tasks
 
-- Use markdown syntax for tasks: `- [ ] do this thing`.
+- Use the markdown syntax for tasks: `- [ ] do this thing`.
 	- Dataview can pull these from any page.
-- I haven't had a need for additional task plugins, at least for now.
+- I haven't had a need for additional task plugins for now.
 
 ## Frontpage
 
 - Create a frontpage (along with a keybind) with the `Homepage` plugin.
-- Pull the next incomplete tasks from different domains of life:
-
-	  ```dataview
-	  task from "Notes/Projects"
-	  where !completed
-	  limit 2
-	  ```
-
+- Display the next incomplete tasks automatically from different domains of life:
+	- https://gist.github.com/JesseK13241/d1e3c689fef5d338abc69c6935831e4e
 ## Linting
 
 - Use `Linter` plugin for keeping notes clean and consistent.
@@ -82,12 +78,13 @@ My up-to-date [Obsidian](https://obsidian.md/) reference with solutions, opinion
 
 ## Publishing
 
-- [Reasons and how to Blog](/blog/reasons-and-how-to-blog) 🚧 
+- [Blogi - Miksi](/blog/blogi-miksi) 🚧 
 
 ## WIP
 
-- Calendar that "works".
-- Dashboard (frontpage with metrics).
-- RSS integration.
-- Semantic links.
+- [x] Dashboard (frontpage with metrics).
+- [ ] Calendar that "works".
+- [ ] RSS integration.
+- [ ] Semantic links.
 - ...
+
