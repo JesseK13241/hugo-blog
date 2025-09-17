@@ -23,3 +23,6 @@ enableRobotsTXT = true
   [[menus.main]]
     name = 'Now'
     url = '/now'
+
+[frontmatter]
+  lastmod = ['lastmod']
