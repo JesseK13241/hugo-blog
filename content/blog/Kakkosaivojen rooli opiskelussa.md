@@ -1,9 +1,13 @@
 +++
 title="Kakkosaivojen rooli opiskelussa"
 date=2025-08-07
+lastmod=2025-08-07
 tags=['Second brain', 'Learning']
 draft=false
 +++
+
+
+
 
 Tämä on [opiskeluaiheisen blogisarjan](/blog/tehokas-ja-kestävä-opiskelu) kolmas osa.
 

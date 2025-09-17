@@ -1,9 +1,12 @@
 +++
 title="Tietokoneen rooli opiskelussa"
 date=2025-08-07
+lastmod=2025-08-07
 tags=['Computer', 'Learning']
 draft=false
 +++
+
+
 
 Tämä on [opiskeluaiheisen blogisarjani](/blog/tehokas-ja-kestävä-opiskelu) toinen osa.
 

@@ -1,9 +1,13 @@
 +++
 title="Aikavälikertauksen rooli opiskelussa"
 date=2025-08-07
+lastmod=2025-08-07
 tags=['Spaced repetition', 'Learning']
 draft=false
 +++
+
+
+
 
 Tämä on [opiskeluaiheisen blogisarjan](/blog/tehokas-ja-kestävä-opiskelu) neljäs osa.
 
@@ -46,3 +50,6 @@ A: Yksinkertaisen kysymys-vastausparin (Q-A).
 ```
 
 --> `Obsidian Command: 'Obsidian_to_Anki: Scan Vault'`
+
+Seuraavaksi: [Tekoälyn rooli opiskelussa](/blog/tekoälyn-rooli-opiskelussa) 🚧 
+

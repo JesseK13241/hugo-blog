@@ -1,9 +1,12 @@
 +++
 title="Tehokas ja kestävä opiskelu"
 date=2025-07-04
+lastmod=2025-07-04
 tags=['Learning']
 draft=false
 +++
+
+
 
 Tämä on opiskeluaiheisen blogisarjan ensimmäinen osa.
 
