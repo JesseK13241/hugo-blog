@@ -27,7 +27,7 @@ Opiskelu on pohjimmiltaan tietotyötä.
 Tiedon hankkiminen, prosessointi ja tuottaminen onnistuu parhaiten näihin tarkoituksiin optimoidulla laitteella, joka tämän teknologisen ajanjakson aikana on tietokone.
 Tiedon systemaattinen hallinta on tietokoneiden suuri vahvuus.
 
-[Digijätit](/blog/kohti-pienempää-internettiä) 🚧 , jotka osaltaan murensivat kuvitelman diginatiivista sukupolvesta, ovat jättäneet nuoret tehottomiksi tietokoneiden käytössä.
+[Digijätit](/blog/kohti-pienempää-internettiä), jotka osaltaan murensivat kuvitelman diginatiivista sukupolvesta, ovat jättäneet nuoret tehottomiksi tietokoneiden käytössä.
 [Tietokoneen tärkeyden ymmärtämisen](/blog/tietokoneen-tärkeys) 🚧  ja [sen peruskäyttötaitojen](/blog/tietokoneen-peruskäyttö) 🚧  taso on turhan matalalla.
 Tietokoneen opetuskäyttöä rajoittaa myös väärinkäyttö viihdevälineenä.
 Ei ole mopojen vika, jos niillä ajetaan kuuseen.
