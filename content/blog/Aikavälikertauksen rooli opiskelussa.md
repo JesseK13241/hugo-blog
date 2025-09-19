@@ -1,15 +1,14 @@
 +++
 title="Aikavälikertauksen rooli opiskelussa"
 date=2025-08-07
-lastmod=2025-08-07
+lastmod=2025-09-19
 tags=['Spaced repetition', 'Learning']
 draft=false
 +++
 
 
 
-
-Tämä on [opiskeluaiheisen blogisarjan](/blog/tehokas-ja-kestävä-opiskelu) neljäs osa.
+Tämä on [opiskeluaiheisen blogisarjani](/blog/tehokas-ja-kestävä-opiskelu) neljäs osa.
 
 Opiskelu koostuu karkeasti kahdesta tasosta: intuitiivisen ymmärryksen ja hahmottamisen saavuttamisesta ja yksittäisten faktojen pänttäämisestä.
 Esimerkkinä kielioppi & sanasto.
@@ -50,6 +49,8 @@ A: Yksinkertaisen kysymys-vastausparin (Q-A).
 ```
 
 --> `Obsidian Command: 'Obsidian_to_Anki: Scan Vault'`
+
+Kysymys-vastausparien generoiminen tekoälyn avulla on myös mahdollista, mutta ite en siihen lähtisi kielimallien perustavanlaatuisen epäluotettavuuden vuoksi.
 
 Seuraavaksi: [Tekoälyn rooli opiskelussa](/blog/tekoälyn-rooli-opiskelussa) 🚧 
 

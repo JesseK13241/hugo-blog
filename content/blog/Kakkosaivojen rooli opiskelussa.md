@@ -1,15 +1,14 @@
 +++
 title="Kakkosaivojen rooli opiskelussa"
 date=2025-08-07
-lastmod=2025-08-07
+lastmod=2025-09-19
 tags=['Second brain', 'Learning']
 draft=false
 +++
 
 
 
-
-Tämä on [opiskeluaiheisen blogisarjan](/blog/tehokas-ja-kestävä-opiskelu) kolmas osa.
+Tämä on [opiskeluaiheisen blogisarjani](/blog/tehokas-ja-kestävä-opiskelu) kolmas osa.
 
 [Kakkosaivojen rakentaminen](/blog/kakkosaivojen-rakentaminen) oli blogiteksteistäni ensimmäinen, ja sen lukeminen selventää myös tätä tekstiä.
 
@@ -26,9 +25,7 @@ Internetistä löytyy paljon materiaalia Obsidianin opiskelukäyttöön, mutta t
 
 ## Rakenne
 
-Sivujen selaaminen sivupalkin kautta on alussa riittävä ratkaisu, mutta kakkosaivojen kasvaessa kannattaa luoda automaattisesti generoituva datataulukko eri kursseista.
-
-Obsidianin tuleva [bases](https://help.obsidian.md/bases)-ominaisuus suoraviivaistaa tätä prosessia, mutta perinteinen [dataview-plugin](https://github.com/blacksmithgu/obsidian-dataview) on tarkoitukseen ihan riittävä.
+Sivujen selaaminen sivupalkin kautta on alussa riittävä ratkaisu, mutta kakkosaivojen kasvaessa kannattaa luoda automaattisesti generoituva datataulukko eri kursseista. Parhaiten tämä onnistuu  [bases](https://help.obsidian.md/bases)-taulukoiden avulla.
 
 Suosittelen luomaan kursseille oman pohjan (*template*), jossa on valmiiksi määriteltynä joitain datakenttiä:
 - Aihe (esim. Historia)
