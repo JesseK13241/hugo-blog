@@ -1,10 +1,10 @@
 +++
 title="Now"
-date=2025-09-17
+date=2025-12-24
 +++
 
-On the job hunt.
+Working as a software developer (remote).
 
 Building my [second brain](/blog/kakkosaivojen-rakentaminen/).
 
-Enjoying the autumn.
+Enjoying the winter.
